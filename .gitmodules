@@ -1,0 +1,3 @@
+[submodule "realesrgan_ncnn_vulkan_python/realesrgan-ncnn-vulkan"]
+	path = realesrgan_ncnn_vulkan_python/realesrgan-ncnn-vulkan
+	url = git@github.com:a13labs/Real-ESRGAN-ncnn-vulkan.git
