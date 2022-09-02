@@ -8,14 +8,10 @@ Last Modified: May 21, 2021
 """
 
 # built-in imports
-import ctypes
 import importlib
 import pathlib
 import sys
 from typing import Tuple
-
-# third-party imports
-from PIL import Image
 
 # local imports
 if __package__ is None:
